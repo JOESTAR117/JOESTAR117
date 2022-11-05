@@ -5,7 +5,7 @@
 
 # 🎬👰🔪 Olá, bom ter você por aqui!
   <div id="badges">
-<a href="https://www.linkedin.com/in/jackson-luis-9519a31bb/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href="https://www.linkedin.com/in/jackson-rios-9519a31bb/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://twitter.com/JOESTAR48333311"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> <br>
   <a href="https://filmow.com/listas/os-10-filmes-da-minha-vida-l224274/"><img src="https://user-images.githubusercontent.com/116031921/200095151-9a3cd199-b5ee-4cb7-9a21-b9d34f4a24e8.png"
                                                                                </div>                                                                          
