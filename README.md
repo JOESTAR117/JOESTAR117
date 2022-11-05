@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/owTJ2VUeDULV6" width="423" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-imgur-posters-owTJ2VUeDULV6">via GIPHY</a></p>
+![200](https://user-images.githubusercontent.com/116031921/200093140-2ed7bb89-159d-4bc6-8da7-562b107e5043.gif)
+
 
 # 🎬👰🔪 Olá, bom ter você por aqui!
   <div id="badges">
