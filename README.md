@@ -21,6 +21,7 @@
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/116031921/201491850-926a430d-0783-4527-9bec-43b10c7d0bec.png" title="CSS" width="50height="40"/>&nbsp;
     </div>
     
    <img src="https://user-images.githubusercontent.com/116031921/200098585-65793a9e-4ff9-4923-b7a9-2d45d6055250.png" width = "" align = "right">
