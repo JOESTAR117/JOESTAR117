@@ -26,8 +26,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Joestar117&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![giphy (1)](https://user-images.githubusercontent.com/116031921/209407371-af0b2426-5576-48dc-bfaf-90fc76e1e2ec.gif) ![giphy (2)](https://user-images.githubusercontent.com/116031921/209407462-3b939611-059e-4aa8-a72c-8f4e9d8ca6d1.gif)
 
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{Joestar117}/count.svg)
