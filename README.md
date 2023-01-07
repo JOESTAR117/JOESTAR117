@@ -1,33 +1,42 @@
-# 💫 About Me:
-❤ I'm looking to collaborate on projects and web sites<br>👩‍💻 Learning something about Frontend<br>🖤 Student of Javascript, HTML and CSS
+
+<h1 align="center">Hi 👋, I'm Jackson Rios</h1>
+<h3 align="center">Desenvolvedor Front-end</h3>
+<hr
+<p> <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/uISzZpAzbQ4nK/giphy.gif"> </p>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/junior.rios.739326/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jackson_luis1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-rios-9519a31bb/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JJacksonII1) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-![UNSPLASH](https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white)
+- 📖 Atualmente estou estudando a Tecnologia  **MERN Stack**
+
+- 💬Pergunte-me sobre **Front-end**
+
+- 📫 Como chegar até mim **juniorrios1231@gmail.com**
+
+- ⚡ Curiosidade **Eu sou fã de cinema**
+
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://twitter.com/jjacksonii1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jjacksonii1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jackson-rios-9519a31bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jackson-rios-9519a31bb/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/junior.rios.739326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/junior.rios.739326/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jackson_luis1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jackson_luis1/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joestar117&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joestar117&theme=tokyonight&hide_border=false)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joestar117&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Joestar117&theme=tokyonight&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joestar117&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Joestar117&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![giphy (1)](https://user-images.githubusercontent.com/116031921/209407371-af0b2426-5576-48dc-bfaf-90fc76e1e2ec.gif) ![giphy (2)](https://user-images.githubusercontent.com/116031921/209407462-3b939611-059e-4aa8-a72c-8f4e9d8ca6d1.gif)
+
 
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{Joestar117}/count.svg)
