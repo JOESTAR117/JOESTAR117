@@ -8,7 +8,7 @@
 ## Eai, Dev! Seja bem vindo ao meu Github :)
 
 
-- Sou de São Bernado - SP e tenho 19 anos 
+- Sou de São Bernado do campo - SP e tenho 19 anos 
 
 - 👩‍💻 Atualmente Desenvolvedor Front-End, e estudando tecnologia **MERN Stack**
 
