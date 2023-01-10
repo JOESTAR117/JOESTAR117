@@ -41,6 +41,7 @@
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joestar117&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joestar117&theme=tokyonight&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joestar117&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
