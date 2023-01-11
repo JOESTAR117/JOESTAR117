@@ -48,6 +48,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Joestar117&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![Snake animation](https://github.com/Joestar117/Joestar117/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{Joestar117}/count.svg)
