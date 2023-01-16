@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jackson Rios</h1>
-<h3 align="center">Desenvolvedor Front-end</h3>
+<h3 align="center">Desenvolvedor MERN STACK</h3>
 <hr
 <p> <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/116031921/211353435-b641fd63-78ec-43fd-97ee-e0696af78506.gif"> </p>
 
@@ -8,16 +8,15 @@
 ## Eai, Dev! Seja bem vindo ao meu Github :)
 
 
+
 - Sou de São Bernado do campo - SP e tenho 19 anos 
 
-- 👩‍💻 Atualmente Desenvolvedor Front-End, e estudando tecnologia **MERN Stack**
+- 👩‍💻 Atualmente Desenvolvedor  **MERN Stack**
 
 - 🎓 Após construir sólidas bases em lógica de programação, HTML, CSS/SASS, Javascript e Git/Github, tenho evoluido em NodeJs que foi onde me aprofundei na carreira MERN Stack, onde uso as seguintes tecnologias: MongoDB,Express,React e NodeJs.
  
-- 💻 Atualmente disponivel para estágios na area de desenvolvimento frontend.
+- 💻 Atualmente disponivel para estágios na area de desenvolvimento frontend/MERN stack .
 
-
-- 💬Pergunte-me sobre **Front-end**
 
 - 📫 Como chegar até mim **juniorrios1231@gmail.com**
 
