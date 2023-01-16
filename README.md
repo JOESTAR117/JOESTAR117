@@ -38,10 +38,9 @@
 
 
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joestar117&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joestar117&theme=tokyonight&hide_border=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joestar117&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api?username=Joestar117&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Joestar117&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joestar117&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
