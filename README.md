@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jackson Rios</h1>
 <h3 align="center"> Backend Developer Node Js</h3>
 <hr
-<p> <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/116031921/211353435-b641fd63-78ec-43fd-97ee-e0696af78506.gif"> </p>
+<p> <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*VON9gHTrzeHZbHfXsqfzEA.gif"> </p>
 
 
 ## Hey Dev! Welcome to my Github :)
@@ -38,9 +38,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joestar117&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joestar117&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joestar117&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Joestar117&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Joestar117&theme=prussian&hide_border=true)
+.......................................................................................![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joestar117&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)................................................................................................... 
 
 
 ## 🏆 GitHub Trophies
