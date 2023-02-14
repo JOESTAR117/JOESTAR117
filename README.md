@@ -38,9 +38,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joestar117&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=JOESTAR117&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joestar117&theme=prussian&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joestar117&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOESTAR117&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
