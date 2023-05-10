@@ -1,29 +1,28 @@
 
-<h1 align="center">Hi 👋, I'm Jackson Rios</h1>
-<h3 align="center"> Backend Developer Node Js</h3>
+<h1 align="center">Olá eu sou Jackson </h1>
+<h3 align="center"> Desenvolvedor backend </h3>
 <hr
-<p> <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif"> </p>
+<p> <img align="right" alt="Coding" width="400" src="https://averagelinuxuser.com/assets/images/posts/2018-10-16-how-to-make-a-gif-with-gimp/channel_trailer.gif"> </p>
 
 
-## Hey Dev! Welcome to my Github :)
+## Bem vindo ao meu mundo de codigos :)
 
 
 
-- I'm from São Bernardo do Campo - SP and I'm 19 years old 
+- Eu sou de São Bernado do Campo -SP e tenho 19 anos
+- Cursando Analise e desenvolvimento de sistemas
+- 👩‍💻 Atualmente desenvolvedor ruby
 
-- 👩‍💻Currently Developer **Node JS**
-
-- 🎓 After building solid foundations in programming logic, HTML, CSS/SASS, Javascript and Git/Github, I have evolved in NodeJs which is where I deepened my NodeJS Developer career, where I use the following technologies: MongoDB atlas, Express and NodeJs.
+- 🎓 Sou um programador autodidata com paixão pela tecnologia e aprendizado constante. Tenho habilidades em tecnologias como JavaScript, TypeScript, Node, Ruby, Ruby on Rails, SQL, NoSQL, Clean Code, HTML, SASS, Prisma, Express, Git, Docker e Linux, bem como em ferramentas relevantes para o desenvolvimento web e backend. Além disso, possuo habilidades em resolução de problemas, trabalho em equipe e autonomia. Meus projetos incluem APIs como Joestar News e Animangabox, ambos documentados e com deploy concluído. Minha abordagem para resolução de problemas é entender o projeto, fazer testes e pesquisar em documentação, internet e fóruns. Atualmente, meu objetivo de carreira é trabalhar em uma empresa que aposte em minhas habilidades e me permita crescer profissionalmente.
  
-- 💻 Currently available for internships in the Backend-NodeJS development area.
+- 💻 Atualmente disponível para estágios na área de desenvolvimento Backend 
 
 
-- 📫 how to reach me **juniorrios1231@gmail.com**
-
-- ⚡ Fun fact **I love movies**
+- 📫 Quer falar comigo? **juniorrios1231@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Minhas Redes:</h3>
 <p align="left">
 <a href="https://twitter.com/jjacksonii1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jjacksonii1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jackson117/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jackson-rios-9519a31bb/" height="30" width="40" /></a>
@@ -32,7 +31,7 @@
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
