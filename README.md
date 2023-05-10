@@ -11,7 +11,7 @@
 
 - Eu sou de São Bernado do Campo -SP e tenho 19 anos
 - Cursando Analise e desenvolvimento de sistemas
-- 👩‍💻 Atualmente desenvolvedor ruby
+- 👩‍💻 Atualmente desenvolvedor backend
 
 - 🎓 Sou um programador autodidata com paixão pela tecnologia e aprendizado constante. Tenho habilidades em tecnologias como JavaScript, TypeScript, Node, Ruby, Ruby on Rails, SQL, NoSQL, Clean Code, HTML, SASS, Prisma, Express, Git, Docker e Linux, bem como em ferramentas relevantes para o desenvolvimento web e backend. Além disso, possuo habilidades em resolução de problemas, trabalho em equipe e autonomia. Meus projetos incluem APIs como Joestar News e Animangabox, ambos documentados e com deploy concluído. Minha abordagem para resolução de problemas é entender o projeto, fazer testes e pesquisar em documentação, internet e fóruns. Atualmente, meu objetivo de carreira é trabalhar em uma empresa que aposte em minhas habilidades e me permita crescer profissionalmente.
  
